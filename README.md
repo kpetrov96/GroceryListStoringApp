@@ -32,3 +32,17 @@ NuGet Packages:
 * CreateListForm.cs -- Create new list in database Form class
 
 * GroceryListStoringDB.sql -- Exported PostgreSQL Database
+
+# Screenshots
+* Public Lists View only
+
+![Screenshot ](Screenshots/AccessToPublicLists.png?raw=true)
+
+* Public/Private/Shared Lists View after user login
+
+![Screenshot ](Screenshots/UserPrivateList.png?raw=true)
+
+* Create new item Form || Create new list Form 
+
+![Screenshot ](Screenshots/InsertForms.png?raw=true)
+
